@@ -1,0 +1,41 @@
+.tanCh{
+    position:fixed;
+    left:0;
+    top:0;
+    right:0;
+    bottom:0;
+    background: rgba(255,255,255,0.5);
+    form{
+        width: 600px;
+        background: #abcaea;
+        margin:100px auto;
+        padding: 20px;
+        button{
+            margin-top: 10px;
+        }
+        label{
+            float: left;
+        }
+        .col-sm-4{
+            float: left;
+        }
+    }
+}
+
+table {
+    tbody{
+        .bian{
+            color:#007bff;
+            cursor:pointer;
+        }
+        .del{
+            color:#007bff;
+            cursor:pointer;
+        }
+    }
+}
+
+.active{
+    background: #5e8bec;
+    color:#fff;
+}

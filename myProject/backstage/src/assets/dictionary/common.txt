@@ -1,0 +1,39 @@
+{
+    "en": {
+        "id": "Id",
+        "title": "Name",
+        "miaoShu": "Describe",
+        "price": "Price",
+        "qty": "Quantity",
+        "shouCang": "Collection",
+        "moHao": "Model number",
+        "kuanShi": "Style",
+        "zhongLiang": "Weight",
+        "chengSe": "Condition",
+        "chiCun": "Size",
+        "imgurl": "Path",
+        "add_time": "Add time",
+        "username": "Account",
+        "password": "Password",
+        "status": "status"
+
+    },
+    "cn": {
+        "id": "序号",
+        "title": "名称",
+        "miaoShu": "描述",
+        "price": "价格",
+        "qty": "数量",
+        "shouCang": "收藏",
+        "moHao": "模号",
+        "kuanShi": "款式",
+        "zhongLiang": "重量",
+        "chengSe": "成色",
+        "chiCun": "尺寸",
+        "imgurl": "路径",
+        "add_time": "添加时间",
+        "username": "账户",
+        "password": "密码",
+        "status": "状态"
+    }
+}

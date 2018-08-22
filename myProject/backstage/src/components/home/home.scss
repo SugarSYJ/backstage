@@ -1,0 +1,5 @@
+.header{position: fixed;left: 0;right: 0; height: 60px;background-color: #5e8bec;}
+
+.body{position: fixed; top: 60px; left: 0; right: 0; bottom: 0;background: #EFF6FE;}
+.body>.nav{position: absolute; left: 0; width: 200px; border-right: solid 1px #ccc; top: 0; bottom: 0;background: #E8F2FE;}
+.body>.container{position: absolute; left: 200px; top: 0; right: 0; bottom: 0;padding: 0;margin: 0;overflow: auto;}

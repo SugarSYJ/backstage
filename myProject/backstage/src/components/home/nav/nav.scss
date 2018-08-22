@@ -1,0 +1,22 @@
+.nav{
+    ul{
+        width: 200px;
+        li{
+            height: 60px;
+            width: 100%;
+            font-size:20px;
+            color:#3D97C9;
+            line-height: 60px;
+            text-align:center;
+            border-bottom:1px solid #ddd;
+            .fa{
+                margin-right: 6px;
+            }
+        }
+        .active{
+            background: #EFF6FE;
+            color:red;
+            border-right:0 none;
+        }
+    }
+}

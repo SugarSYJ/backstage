@@ -1,0 +1,51 @@
+.shang{
+    height: 59px;
+    padding: 10px;
+    .add_btn{
+        height: 40px;
+        width: 80px;
+        background:#b4d2f3;
+        color:#2a7fda;
+        text-align:center;
+        font-weight:bold;
+        cursor:pointer;
+    }
+}
+
+.pagination{
+    margin: 20px auto;
+    width: 230px;
+    text-align:center;
+    .la{
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        border:1px solid #ccc;
+        text-align:center;
+        cursor:pointer;
+    }
+    div{
+        width: 150px;
+        overflow: hidden;
+        position:relative;
+        ul{
+            position:absolute;
+            left:0;
+            top:0;
+            li{
+                float: left;
+                width: 30px;
+                height: 30px;
+                line-height: 30px;
+                border:1px solid #ccc;
+                text-align:center;
+                cursor:pointer;
+            }
+        }
+    }
+    
+    li:hover{
+        background: #5e8bec;
+        color:#fff;
+    }
+}

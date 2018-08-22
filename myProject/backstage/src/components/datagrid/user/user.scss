@@ -1,0 +1,17 @@
+.tanC{
+    position:fixed;
+    left:0;
+    top:0;
+    right:0;
+    bottom:0;
+    background: rgba(255,255,255,0.5);
+    form{
+        width: 400px;
+        background: #abcaea;
+        margin:100px auto;
+        padding: 20px;
+        button{
+            margin-top: 10px;
+        }
+    }
+}

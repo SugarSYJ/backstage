@@ -1,0 +1,57 @@
+.header{
+    .logo{
+        float: left;
+        overflow: hidden;
+        .fa-university{
+            display:block;
+            float: left;
+            font-size:30px;
+            color:#fff;
+            margin:15px 10px 0 15px;
+        }
+        h1{
+            float: left;
+            width: 300px;
+            height: 60px;
+            font-size:30px;
+            color:#fff;
+            line-height: 60px;
+            text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #007bff, 0 0 70px #bd2130, 0 0 80px #dc3545, 0 0 100px #bd2130, 0 0 150px #bd2130;
+        }
+    }
+    .header_r{
+        float: right;
+        padding-top:15px;
+        padding-right:30px;
+        font-size:20px;
+        color:#f5efef;
+        .fa{
+            margin-right: 5px;
+        }
+        .your_name{
+            float: left;
+            margin-right: 15px;
+            span{
+                margin-left: 10px;
+            }
+        }
+        .out{
+            float: right;
+            cursor:pointer;
+        }
+        .fanyi{
+            float: right;
+            margin-right: 10px;
+            select{
+                cursor:pointer;
+                background:#5e8bec;
+                color:#f5efef;
+                border:1px solid #5e8bec;
+                option{
+                    color:#5e8bec;
+                    background: #fff;
+                }
+            }
+        }
+    }
+}
